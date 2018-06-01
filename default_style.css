@@ -5,6 +5,18 @@ h1 {
         font: "Georgia";
 }
 
-h2, h3, h4, h5, h6 {
+h2 {
         font: "Georgia";
+}
+
+h3 {
+        font: "Georgia";
+        font-style: bold;
+        font-size: 12px
+}
+
+h4 {
+        font: "Georgia";
+        font-style: italic;
+        font-size: 12px
 }
