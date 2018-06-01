@@ -6,17 +6,15 @@ h1 {
 }
 
 h2 {
-        font: "Georgia";
+        font-size: 12px
 }
 
 h3 {
-        font: "Georgia";
         font-style: bold;
         font-size: 12px
 }
 
 h4 {
-        font: "Georgia";
         font-style: italic;
         font-size: 12px
 }
