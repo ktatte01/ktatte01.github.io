@@ -6,15 +6,21 @@ h1 {
 }
 
 h2 {
-        font-size: 12px
+        font-size: 20px
 }
 
 h3 {
         font-style: bold;
-        font-size: 12px
+        font-size: 18px
 }
 
 h4 {
         font-style: italic;
-        font-size: 12px
+        font-size: 18px
+}
+
+h5 {
+        font-style: normal;
+        font-size: 18px;
+
 }
