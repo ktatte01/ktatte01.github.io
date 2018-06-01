@@ -2,7 +2,6 @@
 
 h1 {
         text-align: center;
-        font: "Georgia";
 }
 
 h2 {
@@ -11,7 +10,7 @@ h2 {
 }
 
 h3 {
-        font-style: bold;
+        font-style: normal;
         font-size: 18px;
 }
 
